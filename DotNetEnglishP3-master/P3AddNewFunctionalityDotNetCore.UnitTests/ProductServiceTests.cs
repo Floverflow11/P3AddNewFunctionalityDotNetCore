@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace P3AddNewFunctionalityDotNetCore.Tests
+namespace P3AddNewFunctionalityDotNetCore.UnitTests
 {
     public class ProductServiceTests
     {
